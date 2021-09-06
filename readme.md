@@ -1,6 +1,6 @@
 # Hi there I'm Damian! 🙋‍
 
-Founder of [Xeno Innovations](https://xenoinc.com) and [Suess Labs](https://www.suesslabs.com) and avocate for all nerdy things 💻 Who doesn't like exploring for a new challenge. By day I'm a robotics engineer and by night, still crackin' away buring that midnight oil.
+Founder of [Xeno Innovations](https://xenoinc.com) and [Suess Labs](https://www.suesslabs.com) and avocate for all nerdy things 💻 Who doesn't like exploring for a new challenge. I'm a robotics engineer by day, and at night still crackin' away buring that midnight oil on something.
 
     One should always innovate & never loose that steam
 
