@@ -6,7 +6,7 @@ Founder of [Xeno Innovations](https://xenoinc.com), [Suess Labs](https://www.sue
 
 Who doesn't like exploring for a new challenge. I'm a robotics engineer by day, and at night still crackin' away buring that midnight oil on something new (_since the mid 90s_).
 
-    One should always innovate & never loose that steam
+> Always innovate & never loose that steam!
 
 Check out the code samples badged as `Learn` and `Test`. These exercises provides a code-first crash course into their respective topics. The library keeps growing & it isn't going to stop!
 
