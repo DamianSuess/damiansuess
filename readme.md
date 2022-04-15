@@ -4,7 +4,7 @@ Founder of [Xeno Innovations](https://xenoinc.com), [Suess Labs](https://www.sue
 
 <img align="right" alt="Gif" src="https://raw.githubusercontent.com/DamianSuess/DamianSuess/master/images/NightCoding.gif" width="400" />
 
-Who doesn't like exploring for a new challenge. I'm a robotics engineer by day, and at night still crackin' away buring that midnight oil on something new (_since the mid 90s_).
+Who doesn't like exploring for a new challenge? I'm a robotics engineer by day, and at night still crackin' away, buring that midnight oil on something new (_since the mid 90s_).
 
 > Always innovate & never loose that steam!
 
