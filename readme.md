@@ -1,6 +1,6 @@
 # Hi there I'm Damian! 🤸 🐱‍👤
 
-Founder of [Xeno Innovations, Inc.](https://xenoinc.com) and [Suess Labs](https://www.suesslabs.com) consulting. And as always, an avocate for all nerdy things 💻
+Founder of [Xeno Innovations, Inc.](https://xenoinc.com) ([git](https://github.com/XenoInc)) and [Suess Labs](https://www.suesslabs.com) ([git](https://github.com/SuessLabs)) consulting. And as always, an avocate for all nerdy things 💻
 
 <img align="right" alt="Gif" src="https://raw.githubusercontent.com/DamianSuess/DamianSuess/master/images/NightCoding.gif" width="400" />
 
