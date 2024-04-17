@@ -17,7 +17,7 @@ Check out the code samples badged as `Learn` and `Test`. These exercises provide
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DamianSuess&theme=tokyonight&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&rank_icon=percentile" />
 </p>
 
-Since my focus is primarily on projects/family, the blog, [SuessLabs.com](https://www.suesslabs.com) gets updated when time allows. My repos aim to provide verbose tips and tricks with a focus on mobile development.  You'll find a lot using C# or C++, most notably, [Prism.Avalonia](https://github.com/AvaloniaCommunity/Prism.Avalonia), [Visual Studio Linux Debugger](https://github.com/SuessLabs/VsLinuxDebug), [Linux Bluetooth](https://github.com/SuessLabs/Linux.Bluetooth), [.NET MAUI (Xamarin)](https://github.com/dotnet/maui), and [PrismLibrary](https://github.com/PrismLibrary/Prism). If you can't wait for an article, browse the repos here on GitHub!
+The blog at [SuessLabs.com](https://www.suesslabs.com) is transforming to become a verbose reflection of these repositories. My repos aim to provide verbose tips and tricks with a focus on mobile development.  You'll find a lot using C# or C++, most notably, [Prism.Avalonia](https://github.com/AvaloniaCommunity/Prism.Avalonia), [Visual Studio Linux Debugger](https://github.com/SuessLabs/VsLinuxDebug), [Linux Bluetooth](https://github.com/SuessLabs/Linux.Bluetooth), [.NET MAUI (Xamarin)](https://github.com/dotnet/maui), and [PrismLibrary](https://github.com/PrismLibrary/Prism). If you can't wait for an article, browse the repos here on GitHub!
 
 <!--
 https://github.com/anuraghazra/github-readme-stats
