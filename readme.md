@@ -1,6 +1,6 @@
 # Hi there I'm Damian! 🤸 🐱‍👤
 
-Founder of [Xeno Innovations, Inc.](https://xenoinc.com) ([git](https://github.com/XenoInc)) and [Suess Labs](https://www.suesslabs.com) ([git](https://github.com/SuessLabs)) consulting. As an advocate for all things nerdy, my GitHub repos cover topics such as cross-platform mobile, embedded devices, Prism.Avalonia, VS Linux Debugger, Linux Bluetooth for C#, and more!
+Founder of [Xeno Innovations, Inc.](https://xenoinc.com) ([git](https://github.com/XenoInc)) and [Suess Labs](https://www.suesslabs.com) ([git](https://github.com/SuessLabs)) consulting. As an advocate for all things nerdy, my GitHub repos cover topics such as cross-platform mobile, embedded devices, [Prism.Avalonia](https://github.com/AvaloniaCommunity/Prism.Avalonia), [VS Linux Debugger](https://github.com/SuessLabs/VsLinuxDebug), [Linux Bluetooth](https://github.com/SuessLabs/Linux.Bluetooth) for C#, and more!
 
 <img align="right" alt="Gif" src="https://raw.githubusercontent.com/DamianSuess/DamianSuess/master/images/NightCoding.gif" width="400" />
 
@@ -12,7 +12,11 @@ Check out the code samples badged as `Learn` and `Test`. These exercises provide
 
 ## GitHub Stats
 
-<!-- https://github.com/anuraghazra/github-readme-stats -->
+<!--
+https://github.com/anuraghazra/github-readme-stats
+https://github-readme-stats.vercel.app/api?username=damiansuess&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage
+https://github.com/anuraghazra/github-readme-stats/blob/master/src/calculateRank.js
+-->
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DamianSuess&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&langs_count=8&hide=javascript"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DamianSuess&theme=tokyonight&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&rank_icon=percentile" />
