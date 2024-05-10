@@ -24,6 +24,8 @@ https://github.com/anuraghazra/github-readme-stats/blob/master/src/calculateRank
 
 The blog at [SuessLabs.com](https://www.suesslabs.com) is transforming, becoming a verbose reflection of these repositories. Here on GitHub, I have created a variety of repositories with the "_**Learn.**_" title to provide meaningful tips and tricks across various topics that will assist you.  You'll find a lot using C# or C++, most notably, [Prism.Avalonia](https://github.com/AvaloniaCommunity/Prism.Avalonia), [.NET MAUI (Xamarin)](https://github.com/dotnet/maui), and C++. Check out and support my other repos, [Visual Studio Linux Debugger](https://github.com/SuessLabs/VsLinuxDebug), [Linux Bluetooth](https://github.com/SuessLabs/Linux.Bluetooth), and [PrismLibrary](https://github.com/PrismLibrary/Prism). If you can't wait for an article, browse the repos here on GitHub!
 
+The latest series will cover Prism.Avalonia example projects and Laravel
+
 <!--
 https://github.com/anuraghazra/github-readme-stats
 
