@@ -39,3 +39,4 @@ https://github.com/anuraghazra/github-readme-stats
 <p align="center">
   <a href="https://github.com/DamianSuess"><img src="https://github-profile-trophy.vercel.app/?username=DamianSuess&theme=onedark&no-bg=true" alt="Damian's GitHub Profile Trophy"/></a>
 </p>
+<!-- x -->
