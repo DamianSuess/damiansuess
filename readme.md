@@ -11,10 +11,10 @@ Who doesn't like exploring for a new challenge? I'm a robotics engineer by day, 
 Check out the code samples badged as `Learn` and `Test`. These exercises provide a code-first crash course into their respective topics. The library keeps growing & it isn't going to stop!
 
 > Top Learn Repos
-> * [Learn.Laravel] - Laravel v11 (PHP)
-> * [Learn MAUI Payment UI](https://github.com/DamianSuess/Learn.MauiPaymentUi)
-> * [Learn Prism Library](https://github.com/DamianSuess/Learn.PrismLibrary)
-> * [Learn Prism.Avalonia - Outlookish](https://github.com/DamianSuess/Learn.PrismAvaloniaOutlookish)
+> * [Learn.Laravel](https://github.com/DamianSuess/Learn.Laravel) - _Laravel v11 (PHP) example and customization samples_
+> * [Learn MAUI Payment UI](https://github.com/DamianSuess/Learn.MauiPaymentUi) - _.NET MAUI Credit Card Selector_
+> * [Learn Prism Library](https://github.com/DamianSuess/Learn.PrismLibrary) - _Learn the various flavors of Prism MVVM_
+> * [Learn Prism.Avalonia - Outlookish](https://github.com/DamianSuess/Learn.PrismAvaloniaOutlookish) - _Prism.Avalonia feature test app_
 
 ## GitHub Stats
 
