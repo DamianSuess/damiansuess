@@ -34,7 +34,6 @@ The latest series will cover Prism.Avalonia example projects and Laravel
 
 <!--
 https://github.com/anuraghazra/github-readme-stats
-
 ![Damian's GitHub stats](https://github-readme-stats.vercel.app/api?username=DamianSuess&show_icons=true&theme=tokyonight)
 
 ### Other Stats
