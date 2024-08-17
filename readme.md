@@ -15,6 +15,9 @@ Check out the code samples badged as `Learn` and `Test`. These exercises provide
 > * [Learn MAUI Payment UI](https://github.com/DamianSuess/Learn.MauiPaymentUi) - _.NET MAUI Credit Card Selector_
 > * [Learn Prism Library](https://github.com/DamianSuess/Learn.PrismLibrary) - _Learn the various flavors of Prism MVVM_
 > * [Learn Prism.Avalonia - Outlookish](https://github.com/DamianSuess/Learn.PrismAvaloniaOutlookish) - _Prism.Avalonia feature test app_
+>
+> Prism Avalonia
+> * [Prism.Avalonia Templates for DotNet CLI](https://github.com/SuessLabs/Prism.Avalonia.Templates)
 
 ## GitHub Stats
 
