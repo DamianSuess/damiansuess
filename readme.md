@@ -1,6 +1,13 @@
 # Hi there I'm Damian! 🤸 🐱‍👤
 
-Founder of [Suess Labs](https://www.suesslabs.com) ([git](https://github.com/SuessLabs)) consulting and [Xeno Innovations, Inc.](https://xenoinc.com) ([git](https://github.com/XenoInc)). As an advocate for all things nerdy, my GitHub repos cover topics such as cross-platform mobile, firmware for embedded systems, [Prism.Avalonia](https://github.com/AvaloniaCommunity/Prism.Avalonia), [VS Linux Debugger](https://github.com/SuessLabs/VsLinuxDebug), [Linux Bluetooth](https://github.com/SuessLabs/Linux.Bluetooth) for C#, and more!
+Founder of [Suess Labs](https://www.suesslabs.com) ([git](https://github.com/SuessLabs)) consulting and [Xeno Innovations, Inc.](https://xenoinc.com) ([git](https://github.com/XenoInc)). As an advocate for all things nerdy, my GitHub repos cover topics such as cross-platform, mobile, and firmware for embedded systems.
+
+Maintainer of:
+
+* [VS Linux Debugger](https://github.com/SuessLabs/VsLinuxDebug)
+* [Linux Bluetooth](https://github.com/SuessLabs/Linux.Bluetooth)
+* [Prism.Avalonia](https://github.com/AvaloniaCommunity/Prism.Avalonia)
+* [Prism.Avalonia Templates for DotNet CLI](https://github.com/SuessLabs/Prism.Avalonia.Templates)
 
 <img align="right" alt="Gif" src="https://raw.githubusercontent.com/DamianSuess/DamianSuess/master/images/NightCoding.gif" width="400" />
 
