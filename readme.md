@@ -4,7 +4,7 @@ Founder of [Suess Labs](https://www.suesslabs.com) ([git](https://github.com/Sue
 
 Maintainer of:
 
-* [VS Linux Debugger](https://github.com/SuessLabs/VsLinuxDebug) - Extension for Visual Studio
+* [VS Linux Debugger](https://github.com/SuessLabs/VsLinuxDebug) - Extension for Visual Studio 2022
 * [Linux Bluetooth](https://github.com/SuessLabs/Linux.Bluetooth)
 * [Prism.Avalonia](https://github.com/AvaloniaCommunity/Prism.Avalonia)
 * [Prism.Avalonia Templates for DotNet CLI](https://github.com/SuessLabs/Prism.Avalonia.Templates)
