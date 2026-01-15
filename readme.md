@@ -7,7 +7,10 @@ Maintainer of:
 * [VS Linux Debugger](https://github.com/SuessLabs/VsLinuxDebug) - Extension for Visual Studio 2022
 * [Linux Bluetooth](https://github.com/SuessLabs/Linux.Bluetooth)
 * [Prism.Avalonia](https://github.com/AvaloniaCommunity/Prism.Avalonia)
-* [Prism.Avalonia Templates for DotNet CLI](https://github.com/SuessLabs/Prism.Avalonia.Templates)
+  * [Prism.Avalonia Templates for DotNet CLI](https://github.com/SuessLabs/Prism.Avalonia.Templates)
+* [Lite.StateMachine](https://github.com/SuessLabs/Lite.StateMachine) - _Lighting fast enterprise state machine_
+* [Lite.Migrator](https://github.com/SuessLabs/Lite.Migrator) - _SQLite Migrator_
+* [Lite.EventIpc](https://github.com/SuessLabs/Lite.EventIpc) - _Event Aggregator and Inter-process communications_
 
 <img align="right" alt="Gif" src="https://raw.githubusercontent.com/DamianSuess/DamianSuess/master/images/NightCoding.gif" width="400" />
 
