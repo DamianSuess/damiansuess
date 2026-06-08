@@ -1,4 +1,4 @@
-# Hi there I'm Damian! 🤸 🐱‍👤
+# Hi there I'm Damian! 🤸🥷
 
 Founder of [Suess Labs](https://www.suesslabs.com) ([git](https://github.com/SuessLabs)) consulting and [Xeno Innovations, Inc.](https://xenoinc.com) ([git](https://github.com/XenoInc)). As an advocate for all things nerdy, my GitHub repos cover topics such as cross-platform, mobile, and firmware for embedded systems.
 
@@ -8,7 +8,7 @@ Maintainer of:
 * [Linux Bluetooth](https://github.com/SuessLabs/Linux.Bluetooth)
 * [Prism.Avalonia](https://github.com/AvaloniaCommunity/Prism.Avalonia)
   * [Prism.Avalonia Templates for DotNet CLI](https://github.com/SuessLabs/Prism.Avalonia.Templates)
-* [Lite.StateMachine](https://github.com/SuessLabs/Lite.StateMachine) - _Lighting fast enterprise state machine_
+* [Lite.StateMachine](https://github.com/SuessLabs/Lite.StateMachine) - _Lighting fast enterprise state machine_ 🚀🚀 _Faster than Stateless!_
 * [Lite.Migrator](https://github.com/SuessLabs/Lite.Migrator) - _SQLite Migrator_
 * [Lite.EventIpc](https://github.com/SuessLabs/Lite.EventIpc) - _Event Aggregator and Inter-process communications_
 
